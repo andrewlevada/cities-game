@@ -1,0 +1,11 @@
+P:\Citis\Citis\bin\Debug\Citis.exe.config
+P:\Citis\Citis\bin\Debug\Citis.exe
+P:\Citis\Citis\bin\Debug\Citis.pdb
+P:\Citis\Citis\obj\Debug\Citis.csprojResolveAssemblyReference.cache
+P:\Citis\Citis\obj\Debug\Citis.Form1.resources
+P:\Citis\Citis\obj\Debug\Citis.Properties.Resources.resources
+P:\Citis\Citis\obj\Debug\Citis.csproj.GenerateResource.Cache
+P:\Citis\Citis\obj\Debug\Citis.csproj.CoreCompileInputs.cache
+P:\Citis\Citis\obj\Debug\Citis.exe
+P:\Citis\Citis\obj\Debug\Citis.pdb
+P:\Citis\Citis\bin\Debug\$data.txt
