@@ -9,3 +9,14 @@ P:\Citis\Citis\obj\Debug\Citis.csproj.CoreCompileInputs.cache
 P:\Citis\Citis\obj\Debug\Citis.exe
 P:\Citis\Citis\obj\Debug\Citis.pdb
 P:\Citis\Citis\bin\Debug\$data.txt
+C:\Users\levad_000\Desktop\Cities\Citis\bin\Debug\$data.txt
+C:\Users\levad_000\Desktop\Cities\Citis\bin\Debug\Citis.exe.config
+C:\Users\levad_000\Desktop\Cities\Citis\bin\Debug\Citis.exe
+C:\Users\levad_000\Desktop\Cities\Citis\bin\Debug\Citis.pdb
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.csprojAssemblyReference.cache
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.Form1.resources
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.Properties.Resources.resources
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.csproj.GenerateResource.cache
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.csproj.CoreCompileInputs.cache
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.exe
+C:\Users\levad_000\Desktop\Cities\Citis\obj\Debug\Citis.pdb
